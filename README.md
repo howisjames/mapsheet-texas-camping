@@ -1,2 +1,5 @@
-# mapsheet-texas-camping
- Tent camping destinations in Texas.
+# mapsheet-texas-campsites
+Potential campgrounds for a family trip to Texas.
+
+Based on code from:
+https://github.com/jsoma/mapsheet
